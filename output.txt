@@ -1,0 +1,4 @@
+Given array is 
+10 15 3 7 
+Sorted array is 
+3 7 10 15 
